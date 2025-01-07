@@ -1,24 +1,24 @@
-Tic Tac Toe Game 🎮
-Overview
-This repository contains a Tic Tac Toe game implementation, offering a classic two-player gameplay experience. The game is designed to be simple, interactive, and fun, suitable for all age groups.
+# Tic Tac Toe Game
 
-Features
-Two-Player Mode: Play with a friend on the same device.
-Clean UI/UX: Intuitive design for easy navigation and gameplay.
-Winning Logic: Automatic detection of game outcomes (win, lose, or draw).
-Responsive Design (if applicable): Works smoothly across devices and screen sizes.
-Error Handling: Prevents invalid moves and ensures seamless gameplay.
-Technologies Used
-Programming Language: Specify the language (e.g., Python, Java, C++, etc.).
-Frameworks/Libraries (if any): List relevant tools or libraries used in the project.
-Development Environment: Mention IDE or platform used (e.g., Visual Studio Code, Android Studio, etc.).
-How to Play
-Clone the repository to your local machine.
-Run the game (provide specific instructions like python tic_tac_toe.py or java TicTacToe.java).
-Follow the on-screen instructions to play the game.
-Potential Enhancements
-Add a Single-Player Mode with AI to play against the computer.
-Implement a Leaderboard to track player scores.
-Create an Online Multiplayer version to play with friends remotely.
-Contributions
-Contributions are welcome! Feel free to submit issues or pull requests to enhance the game further.
+## Description
+This is a simple implementation of the classic Tic Tac Toe game. The game can be played between two players on a 3x3 grid.
+
+## Features
+- Two-player game
+- Simple and intuitive user interface
+- Winner detection
+- Game reset functionality
+
+## How to Play
+1. The game is played on a grid that's 3 squares by 3 squares.
+2. Player 1 is 'X' and Player 2 is 'O'. Players take turns putting their marks in empty squares.
+3. The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
+4. When all 9 squares are full, the game is over.
+
+## Installation
+To run the game, clone this repository and run the main script.
+
+```bash
+git clone https://github.com/bharatmindphin/tic-toc-tog-game.git
+cd tic-toc-tog-game
+python main.py
